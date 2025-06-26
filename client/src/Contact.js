@@ -34,27 +34,26 @@ const Contact = () => {
     {
       icon: '📧',
       title: 'Email',
-      value: 'your.email@example.com',
-      link: 'mailto:your.email@example.com'
+      value: 'sahanchanuka90@gmail.com',
+      link: 'mailto:sahanchanuka90@gmail.com'
     },
     {
       icon: '📱',
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      value: '+94 77 3900 340',
+      link: 'tel:+94 77 3900 340'
     },
     {
       icon: '📍',
       title: 'Location',
-      value: 'Your City, Country',
+      value: 'Colombo, Sri Lanka',
       link: '#'
     }
   ];
 
   const socialLinks = [
-    { name: 'GitHub', url: 'https://github.com/yourusername', icon: '🐙' },
-    { name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername', icon: '💼' },
-    { name: 'Twitter', url: 'https://twitter.com/yourusername', icon: '🐦' }
+    { name: 'GitHub', url: 'https://github.com/sahanchanuka24', icon: '🐙' },
+    { name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername', icon: '💼' }
   ];
 
   const containerVariants = {
