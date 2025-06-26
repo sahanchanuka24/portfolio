@@ -24,15 +24,13 @@ const About = () => {
   };
 
   const stats = [
-    { number: '3+', label: 'Years Experience' },
-    { number: '20+', label: 'Projects Completed' },
-    { number: '15+', label: 'Technologies' },
-    { number: '100%', label: 'Client Satisfaction' }
+    { number: '3+', label: 'Projects Completed' },
+    { number: '10+', label: 'Technologies' },
   ];
 
   const skills = [
-    'JavaScript', 'React', 'Node.js', 'Python', 'MongoDB', 'PostgreSQL',
-    'Express.js', 'TypeScript', 'Git', 'Docker', 'AWS', 'Figma'
+    'JavaScript', 'React', 'Node.js', 'Python', 'MongoDB', 'JAVA',
+    'Express.js','Spring Boot', 'SQL','Git', 'Figma'
   ];
 
   return (
@@ -59,15 +57,17 @@ const About = () => {
           <motion.div className="about-text" variants={itemVariants}>
             <h3>Who I Am</h3>
             <p>
-              I'm a passionate Full Stack Developer with a love for creating beautiful, 
-              functional, and user-centered digital experiences. With 3+ years of experience 
-              in web development, I am always looking for new and innovative ways to bring 
-              my clients' visions to life.
+            I'm an undergraduate student at SLIIT, specializing in IT, 
+            with a passion for building modern, user-focused digital experiences. 
+            I have a strong interest in UI/UX design, full-stack development, 
+            and emerging technologies like Artificial Intelligence and Machine Learning.
             </p>
             <p>
-              I believe that design is about more than just making things look pretty – 
-              it's about solving problems and creating intuitive, enjoyable experiences 
-              for users.
+            I currently work as a freelance UI/UX designer, collaborating with clients to craft clean, 
+            intuitive, and visually engaging interfaces. Beyond design, I’m also exploring the world of AI/ML engineering, 
+            where I enjoy experimenting with smart systems and data-driven solutions.
+            I’m constantly learning, creating, and aiming to build impactful products that blend design, 
+            technology, and intelligence seamlessly.
             </p>
           </motion.div>
 

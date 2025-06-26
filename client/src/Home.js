@@ -60,10 +60,10 @@ const Home = () => {
   };
 
   const socialLinks = [
-    { name: 'GitHub', url: 'https://github.com/yourusername', icon: '🐙' },
-    { name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername', icon: '💼' },
+    { name: 'GitHub', url: 'https://github.com/sahanchanuka24', icon: '🐙' },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/sahan-chanuka-a46816246/', icon: '💼' },
     { name: 'Twitter', url: 'https://twitter.com/yourusername', icon: '🐦' },
-    { name: 'Email', url: 'mailto:your.email@example.com', icon: '📧' }
+    { name: 'Email', url: 'mailto:sahanchanuka90@gmail.com', icon: '📧' }
   ];
 
   return (
